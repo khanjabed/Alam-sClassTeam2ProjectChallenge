@@ -1,0 +1,344 @@
+2020-04-28 16:30:43,779 [main] INFO  - ******** Opening URL*********
+2020-04-28 16:30:47,524 [main] INFO  - ******** Providing login details*********
+2020-04-28 16:30:47,659 [main] INFO  - ******** Submit loginBtn *********
+2020-04-28 16:30:49,256 [main] INFO  - ******** Home page title passed *********
+2020-04-28 16:30:49,258 [main] INFO  - ******** Click Dress *********
+2020-04-28 16:30:50,266 [main] INFO  - ******** Print all Item's price *********
+2020-04-28 16:30:50,379 [main] INFO  - ******** Select second Item *********
+2020-04-28 16:30:50,390 [main] INFO  - ******** Item added to cart *********
+2020-04-28 16:30:50,462 [main] INFO  - ******** Proceede to checkout page *********
+2020-04-28 16:30:51,619 [main] INFO  - ******** Total price passed *********
+2020-04-28 16:30:51,620 [main] INFO  - ******** click on logout and Quit *********
+2020-04-28 18:33:16,003 [main] INFO PMCS - ******** Opening URL*********
+2020-04-28 18:33:19,529 [main] INFO PMCS - ******** Providing login details*********
+2020-04-28 18:33:19,680 [main] INFO PMCS - ******** Submit loginBtn *********
+2020-04-28 18:33:21,406 [main] INFO PMCS - ******** Home page title passed *********
+2020-04-28 18:33:21,408 [main] INFO PMCS - ******** Click Dress *********
+2020-04-28 18:33:22,750 [main] INFO PMCS - ******** Print all Item's price *********
+2020-04-28 18:33:22,861 [main] INFO PMCS - ******** Select second Item *********
+2020-04-28 18:33:22,876 [main] INFO PMCS - ******** Item added to cart *********
+2020-04-28 18:33:22,936 [main] INFO PMCS - ******** Proceede to checkout page *********
+2020-04-28 18:33:24,396 [main] INFO PMCS - ******** Total price passed *********
+2020-04-28 18:33:24,397 [main] INFO PMCS - ******** click on logout and Quit *********
+2020-04-28 19:16:53,351 [main] INFO PMCS - ******** Opening URL*********
+2020-04-28 19:16:57,250 [main] INFO PMCS - ******** Providing login details*********
+2020-04-28 19:16:57,489 [main] INFO PMCS - ******** Submit loginBtn *********
+2020-04-28 19:16:58,649 [main] INFO PMCS - ******** Home page title passed *********
+2020-04-28 19:16:58,653 [main] INFO PMCS - ******** Click Dress *********
+2020-04-28 19:17:00,230 [main] INFO PMCS - ******** Print all Item's price *********
+2020-04-28 19:17:00,519 [main] INFO PMCS - ******** Select second Item *********
+2020-04-28 19:17:00,556 [main] INFO PMCS - ******** Item added to cart *********
+2020-04-28 19:17:00,702 [main] INFO PMCS - ******** Proceede to checkout page *********
+2020-04-28 19:17:02,403 [main] INFO PMCS - ******** Total price passed *********
+2020-04-28 19:17:02,405 [main] INFO PMCS - ******** click on logout and Quit *********
+2020-04-28 19:22:41,591 [main] INFO PMCS - ******** Opening URL*********
+2020-04-28 19:22:46,180 [main] INFO PMCS - ******** Providing login details*********
+2020-04-28 19:22:46,712 [main] INFO PMCS - ******** Submit loginBtn *********
+2020-04-28 19:22:47,983 [main] INFO PMCS - ******** Home page title passed *********
+2020-04-28 19:22:47,988 [main] INFO PMCS - ******** Click Dress *********
+2020-04-28 19:22:50,719 [main] INFO PMCS - ******** Print all Item's price *********
+2020-04-28 19:22:51,166 [main] INFO PMCS - ******** Select second Item *********
+2020-04-28 19:22:51,195 [main] INFO PMCS - ******** Item added to cart *********
+2020-04-28 19:22:51,339 [main] INFO PMCS - ******** Proceede to checkout page *********
+2020-04-28 19:22:53,022 [main] INFO PMCS - ******** Total price passed *********
+2020-04-28 19:22:53,024 [main] INFO PMCS - ******** click on logout and Quit *********
+2020-04-30 14:36:14,344 [main] INFO QA Akher - +++++++++++window maximized+++++++++++++++
+2020-04-30 14:36:14,431 [main] INFO QA Akher - ******** Opening URL*********
+2020-04-30 14:36:18,283 [main] INFO QA Akher - ******** Providing login details*********
+2020-04-30 14:36:18,424 [main] INFO QA Akher - ******** Submit loginBtn *********
+2020-04-30 14:36:19,281 [main] INFO QA Akher - ******** Home page title passed *********
+2020-04-30 14:36:19,283 [main] INFO QA Akher - ******** Click Dress *********
+2020-04-30 14:36:20,262 [main] INFO QA Akher - ******** Print all Item's price *********
+2020-04-30 14:36:20,363 [main] INFO QA Akher - ******** Select second Item *********
+2020-04-30 14:36:20,380 [main] INFO QA Akher - ******** Item added to cart *********
+2020-04-30 14:36:20,439 [main] INFO QA Akher - ******** Proceede to checkout page *********
+2020-04-30 14:36:21,819 [main] INFO QA Akher - ******** Total price passed *********
+2020-04-30 14:36:21,820 [main] INFO QA Akher - ******** click on logout and Quit *********
+2020-04-30 14:42:43,314 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-04-30 14:42:43,363 [main] INFO QA Akhar - ******** Opening URL*********
+2020-04-30 14:42:49,504 [main] INFO QA Akhar - ******** Providing login details*********
+2020-04-30 14:42:49,633 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-04-30 14:42:53,511 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-04-30 14:42:53,513 [main] INFO QA Akhar - ******** Click Dress *********
+2020-04-30 14:42:54,762 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-04-30 14:42:54,863 [main] INFO QA Akhar - ******** Select second Item *********
+2020-04-30 14:42:54,876 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-04-30 14:42:54,949 [main] INFO QA Akhar - ******** Proceede to checkout page *********
+2020-04-30 14:42:56,634 [main] INFO QA Akhar - ******** Total price passed *********
+2020-04-30 14:42:56,635 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-04-30 14:48:14,269 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-04-30 14:48:14,320 [main] INFO QA Akhar - ******** Opening URL*********
+2020-04-30 14:48:18,219 [main] INFO QA Akhar - ******** Providing login details*********
+2020-04-30 14:48:18,365 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-04-30 14:48:19,310 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-04-30 14:48:19,313 [main] INFO QA Akhar - ******** Click Dress *********
+2020-04-30 14:48:21,326 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-04-30 14:48:21,426 [main] INFO QA Akhar - ******** Select second Item *********
+2020-04-30 14:48:21,440 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-04-30 14:48:21,520 [main] INFO QA Akhar - ******** Procede to checkout page *********
+2020-04-30 14:48:24,156 [main] INFO QA Akhar - ******** Total price passed *********
+2020-04-30 14:48:24,157 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-04-30 15:29:49,221 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-04-30 15:29:49,276 [main] INFO QA Akhar - ******** Opening URL*********
+2020-04-30 15:29:52,952 [main] INFO QA Akhar - ******** Providing login details*********
+2020-04-30 15:29:53,092 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-04-30 15:29:54,759 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-04-30 15:29:54,761 [main] INFO QA Akhar - ******** Click Dress *********
+2020-04-30 15:29:55,837 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-04-30 15:29:55,935 [main] INFO QA Akhar - ******** Select second Item *********
+2020-04-30 15:29:55,946 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-04-30 23:38:27,592 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-04-30 23:38:27,637 [main] INFO QA Akhar - ******** Opening URL*********
+2020-04-30 23:38:30,438 [main] INFO QA Akhar - ******** Providing login details*********
+2020-04-30 23:38:30,583 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-04-30 23:38:31,430 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-04-30 23:38:31,432 [main] INFO QA Akhar - ******** Click Dress *********
+2020-04-30 23:38:32,477 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-04-30 23:38:32,578 [main] INFO QA Akhar - ******** Select second Item *********
+2020-04-30 23:38:32,592 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-04-30 23:38:32,656 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-04-30 23:38:33,902 [main] INFO QA Akhar - ******** Total price passed *********
+2020-04-30 23:38:33,902 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-04-30 23:54:17,039 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-04-30 23:54:17,096 [main] INFO QA Akhar - ******** Opening URL*********
+2020-04-30 23:54:19,916 [main] INFO QA Akhar - ******** Providing login details*********
+2020-04-30 23:54:20,064 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-04-30 23:54:20,906 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-04-30 23:54:20,909 [main] INFO QA Akhar - ******** Click Dress *********
+2020-04-30 23:54:22,023 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-04-30 23:54:22,123 [main] INFO QA Akhar - ******** Select second Item *********
+2020-04-30 23:54:22,135 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-04-30 23:54:22,209 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-04-30 23:54:23,606 [main] INFO QA Akhar - ******** Total price passed *********
+2020-04-30 23:54:23,606 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-01 00:14:38,317 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-01 00:14:38,377 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-01 00:14:41,478 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-01 00:14:41,619 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-01 00:14:42,869 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-01 00:14:42,872 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-01 00:14:44,035 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-01 00:14:44,133 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-01 00:14:44,146 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-01 00:14:44,208 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-01 00:14:45,866 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-01 00:14:45,867 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-01 00:21:02,294 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-01 00:21:02,343 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-01 00:21:05,313 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-01 00:21:05,470 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-01 00:21:06,505 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-01 00:21:06,507 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-01 00:21:08,580 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-01 00:21:08,685 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-01 00:21:08,698 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-01 00:21:08,764 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-01 00:21:10,255 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-01 00:21:10,255 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-01 12:51:11,161 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-01 12:51:11,272 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-01 12:51:16,579 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-01 12:51:16,921 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-01 12:51:18,643 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-01 12:51:18,645 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-01 12:51:20,375 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-01 12:51:20,856 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-01 12:51:20,923 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-01 12:51:21,039 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-01 12:51:22,771 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-01 12:51:22,772 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-01 12:55:21,384 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-01 12:55:21,458 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-01 12:55:25,811 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-01 12:55:26,384 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-01 12:55:28,289 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-01 12:55:28,291 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-01 12:55:29,651 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-01 12:55:29,966 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-01 12:55:29,987 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-01 12:55:30,141 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-01 12:55:32,940 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-01 12:55:32,941 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-02 23:25:59,603 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-02 23:25:59,705 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-02 23:26:03,337 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-02 23:26:03,618 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-02 23:26:04,770 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-02 23:26:04,776 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-02 23:26:06,051 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-02 23:26:06,327 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-02 23:26:06,365 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-02 23:26:06,533 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-02 23:26:08,482 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-02 23:26:08,484 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-03 00:22:47,261 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-03 00:22:47,387 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-03 00:22:51,153 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-03 00:22:51,426 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-03 00:22:53,229 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-03 00:22:53,233 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-03 00:22:54,437 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-03 00:22:54,847 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-03 00:22:54,870 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-03 00:22:54,956 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-03 00:22:56,483 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-03 00:22:56,484 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-03 01:07:07,214 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-03 01:07:07,336 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-03 01:07:11,254 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-03 01:07:11,611 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-03 01:07:13,035 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-03 01:07:13,039 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-03 01:07:14,397 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-03 01:07:14,797 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-03 01:07:14,831 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-03 01:07:15,022 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-03 01:07:16,600 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-03 01:07:16,602 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-03 01:35:08,155 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-03 01:35:08,253 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-03 01:35:11,586 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-03 01:35:11,856 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-03 01:35:13,132 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-03 01:35:13,136 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-03 01:35:14,506 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-03 01:35:14,783 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-03 01:35:14,832 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-03 01:35:14,930 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-03 01:35:16,369 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-03 01:35:16,370 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-03 02:07:26,976 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-03 02:07:27,058 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-03 02:07:31,524 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-03 02:07:31,917 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-03 02:07:33,006 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-03 02:07:33,011 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-03 02:07:35,153 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-03 02:07:35,644 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-03 02:07:35,699 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-03 02:07:35,949 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-03 02:07:38,004 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-03 02:07:38,007 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-03 02:13:31,277 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-03 02:13:31,394 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-03 02:13:34,890 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-03 02:13:35,236 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-03 02:13:36,950 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-03 02:13:36,955 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-03 02:13:38,448 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-03 02:13:38,964 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-03 02:13:39,029 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-03 02:13:39,322 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-03 02:13:41,245 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-03 02:13:41,248 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-03 02:14:59,753 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-03 02:14:59,885 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-03 02:15:02,854 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-03 02:15:03,108 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-03 02:15:04,423 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-03 02:15:04,424 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-03 02:15:05,753 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-03 02:15:06,164 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-03 02:15:06,227 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-03 02:15:06,415 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-03 02:15:07,918 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-03 02:15:07,920 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-03 02:28:30,457 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-03 02:28:30,576 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-03 02:28:34,291 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-03 02:28:34,549 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-03 02:28:35,843 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-03 02:28:35,849 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-03 02:28:37,421 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-03 02:28:37,923 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-03 02:28:37,982 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-03 02:28:38,227 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-03 02:28:40,418 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-03 02:28:40,420 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-03 02:34:20,465 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-03 02:34:20,567 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-03 02:34:24,028 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-03 02:34:24,278 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-03 02:34:25,225 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-03 02:34:25,231 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-03 02:34:26,974 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-03 02:34:27,237 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-03 02:34:27,274 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-03 02:34:27,480 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-03 02:34:28,839 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-03 02:34:28,841 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-03 02:43:38,668 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-03 02:43:38,766 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-03 02:43:41,626 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-03 02:43:41,881 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-03 02:43:42,831 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-03 02:43:42,835 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-03 02:43:44,064 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-03 02:43:44,359 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-03 02:43:44,407 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-03 02:43:44,614 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-03 02:43:46,206 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-03 02:43:46,208 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-03 13:25:23,633 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-03 13:25:23,699 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-03 13:25:26,854 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-03 13:25:27,001 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-03 13:25:28,677 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-03 13:25:28,679 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-03 13:25:30,168 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-03 13:25:30,273 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-03 13:25:30,287 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-03 13:25:30,351 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-03 13:25:31,619 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-03 13:25:31,620 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-03 13:32:06,964 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-03 13:32:07,023 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-03 13:32:10,819 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-03 13:32:10,958 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-03 13:32:12,222 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-03 13:32:12,225 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-03 13:32:13,577 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-03 13:32:13,678 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-03 13:32:13,690 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-03 13:32:13,772 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-03 22:11:25,536 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-03 22:11:25,665 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-03 22:11:29,173 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-03 22:11:29,508 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-03 22:11:30,586 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-03 22:11:30,593 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-03 22:11:32,199 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-03 22:11:32,564 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-03 22:11:32,631 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-03 22:11:32,847 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-03 22:11:34,464 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-03 22:11:34,465 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-03 22:32:51,491 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-03 22:32:51,586 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-03 22:32:54,741 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-03 22:32:55,014 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-03 22:32:55,802 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-03 23:02:19,893 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-03 23:02:19,995 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-03 23:02:24,171 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-03 23:02:24,450 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-03 23:02:25,537 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-03 23:02:25,547 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-03 23:02:27,222 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-03 23:02:27,452 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-03 23:02:27,495 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-03 23:02:27,670 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-03 23:02:29,867 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-03 23:02:29,869 [main] INFO QA Akhar - ******** click on logout and Quit *********
+2020-05-03 23:04:52,565 [main] INFO QA Akhar - +++++++++++window maximized+++++++++++++++
+2020-05-03 23:04:52,662 [main] INFO QA Akhar - ******** Opening URL*********
+2020-05-03 23:04:56,756 [main] INFO QA Akhar - ******** Providing login details*********
+2020-05-03 23:04:57,102 [main] INFO QA Akhar - ******** Submit loginBtn *********
+2020-05-03 23:04:58,572 [main] INFO QA Akhar - ******** Home page title passed *********
+2020-05-03 23:04:58,577 [main] INFO QA Akhar - ******** Click Dress *********
+2020-05-03 23:05:00,389 [main] INFO QA Akhar - ******** Print all Item's price *********
+2020-05-03 23:05:00,799 [main] INFO QA Akhar - ******** Select second Item *********
+2020-05-03 23:05:00,860 [main] INFO QA Akhar - ******** Item added to cart *********
+2020-05-03 23:05:01,090 [main] INFO QA Akhar - ******** Proceed to checkout page *********
+2020-05-03 23:05:03,372 [main] INFO QA Akhar - ******** Total price passed *********
+2020-05-03 23:05:03,374 [main] INFO QA Akhar - ******** click on logout and Quit *********
