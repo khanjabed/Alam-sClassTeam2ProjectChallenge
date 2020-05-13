@@ -30,22 +30,15 @@ public class YLsuperclass {
 	 driver.manage().window().maximize();
 	 logger.info("+++++++++++window maximized+++++++++++++++");
 	 driver.manage().deleteAllCookies();
-
-		driver.manage().timeouts().pageLoadTimeout(YLUtil.PAGE_LOAD_TIMEOUT, TimeUnit.SECONDS);
-
-	 driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+     driver.manage().timeouts().pageLoadTimeout(YLUtil.PAGE_LOAD_TIMEOUT, TimeUnit.SECONDS);
+     driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 
 	
 	 }
-	
-
-	 
-		 
  
  public void teardown() {
 	 driver.close();
-	 
- }
+	 }
  
  public static void qiutdown() {
 	 driver.quit();

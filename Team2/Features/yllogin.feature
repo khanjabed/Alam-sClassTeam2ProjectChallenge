@@ -1,6 +1,6 @@
 Feature: Users can buy product & verify the price from the online https://www.automationpractice.com
 
- Description: "User can search dresses, check dress price, and buy the"
+Description: "User can search dresses, check dress price, and buy the"
                          "dresses with a valid user." 
                         
 Scenario:

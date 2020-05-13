@@ -42,9 +42,9 @@ public class YLListener extends YLsuperclass implements ITestListener {
 		extent.attachReporter(htmlReporter);
 		extent.setSystemInfo("Host name", "localhost");
 		extent.setSystemInfo("Environemnt", "QA");
-		extent.setSystemInfo("user", "Alam");
+		extent.setSystemInfo("user", "AKHAR");
 
-		htmlReporter.config().setDocumentTitle("Automation Test Project"); // Tile of report
+		htmlReporter.config().setDocumentTitle("TEAM2 Automation Test Project"); // Tile of report
 		htmlReporter.config().setReportName("Functional Test Report"); // name of the report
 		htmlReporter.config().setTestViewChartLocation(ChartLocation.TOP); // location of the chart
 		htmlReporter.config().setTheme(Theme.DARK);
@@ -67,7 +67,7 @@ public class YLListener extends YLsuperclass implements ITestListener {
 		try {
 			YLUtil.getScreenshot(driver,"test failed");
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
+		
 			e.printStackTrace();
 		}
 		
@@ -131,7 +131,7 @@ public class YLListener extends YLsuperclass implements ITestListener {
 		extent.setSystemInfo("Environemnt", "UAT");
 		extent.setSystemInfo("user", "Akhar");
 
-		htmlReporter.config().setDocumentTitle("Automation Test Project"); // Tile of report
+		htmlReporter.config().setDocumentTitle("TEAM2 Automation Test Project"); // Tile of report
 		htmlReporter.config().setReportName("Functional Test Report"); // name of the report
 		htmlReporter.config().setTestViewChartLocation(ChartLocation.TOP); // location of the chart
 		htmlReporter.config().setTheme(Theme.DARK);
